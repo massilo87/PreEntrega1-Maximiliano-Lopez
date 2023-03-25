@@ -1,0 +1,17 @@
+.brandLogo img {
+    height: 6rem;
+}
+
+h5 {
+    color: darkorange;
+}
+
+.nav-item a {
+    color: darkorange;
+    transition: all .1s;
+}
+
+.nav-item a:hover{
+    font-weight: 700;
+    color: gold;
+}
