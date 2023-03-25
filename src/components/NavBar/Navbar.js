@@ -21,16 +21,16 @@ const Navbar = () => {
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="#">Home</a>
+                                <a class="nav-link" aria-current="page" href="#">Tags para mascotas</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Catálogo de Productos</a>
+                                <a class="nav-link" href="#">Lámparas</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Sobre Nosotros</a>
+                                <a class="nav-link" href="#">Macetas</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contacto</a>
+                                <a class="nav-link" href="#">Letras Corporeas</a>
                             </li>
                             <CartWidget />
                         </ul>
