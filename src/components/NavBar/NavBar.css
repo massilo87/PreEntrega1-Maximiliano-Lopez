@@ -1,3 +1,7 @@
+.navbar {
+    position: absolute;
+}
+
 .brandLogo img {
     height: 6rem;
 }

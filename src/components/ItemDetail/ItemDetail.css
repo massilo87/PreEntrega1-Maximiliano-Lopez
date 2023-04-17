@@ -1,0 +1,19 @@
+.CardItemDetail {
+    border: solid grey 2px;
+    border-radius: 15px;
+    text-align: center;
+    width: 20rem;
+    padding: .5rem;
+    background-color: rgb(240, 240, 153);
+    margin-top: 2rem;
+    margin-left: 40%;
+    
+}
+.ItemImg {
+    height: 8rem;
+    width: 10rem;
+}
+.ItemHeader {
+    color: darkorange;
+    font-size:x-large;
+}
